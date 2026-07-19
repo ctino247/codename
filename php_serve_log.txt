@@ -1,0 +1,9 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].
+
+  Press Ctrl+C to stop the server
+
+  2026-07-19 08:11:29 / .......................................... ~ 500.84ms
+  2026-07-19 08:11:30 /build/assets/app-WPUzrVe4.css ............... ~ 0.05ms
+  2026-07-19 08:11:30 /build/assets/app-BvRk9kiK.js ................ ~ 0.30ms
+  2026-07-19 08:11:30 /livewire/livewire.js ........................ ~ 0.03ms
